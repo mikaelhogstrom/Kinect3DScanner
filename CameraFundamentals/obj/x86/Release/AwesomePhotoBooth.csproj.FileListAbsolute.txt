@@ -1,0 +1,15 @@
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Micke\Desktop\Dropbox\Skola\computer-vision-happy-happy\KinectforWindowsSDKV1\Taking a photo\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
